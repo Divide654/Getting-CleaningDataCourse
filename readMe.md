@@ -1,5 +1,5 @@
 ### Cleaning Data Course ReadMe
-run the scrip with the Analyze() function, will convert the dataset at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip into a tidy dataset and store it as a text file.
+run the script with the Analyze() function, will convert the dataset at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip into a tidy dataset and store it as a text file.
 
 
 The following information describing the dataset is from the UCI Machine Learning Repository data upload
